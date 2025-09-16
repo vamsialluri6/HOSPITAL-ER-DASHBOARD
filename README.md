@@ -23,7 +23,7 @@ The dataset includes anonymized patient records with fields such as:
 - Patient wait time in minutes
 - Case manager ID
 
-For more details, see [Data Terminology](./Data-Terminology.docx).
+For more details, see [Data Terminology]
 
 ## Dashboards Included
 
